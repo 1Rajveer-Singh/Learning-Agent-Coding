@@ -26,6 +26,16 @@
 - **Space Complexity:** O(1)
 - **Solution:** [`solution.py`](Python/Arrays/solution.py)
 
+
+## Bubble Sort
+
+- **Language:** Python
+- **Problem:** Sort an array of numbers in ascending order by repeatedly swapping adjacent elements that are in the wrong order.
+- **Approach:** The algorithm employs two nested loops to traverse the array. In each iteration of the inner loop, adjacent elements are compared and swapped if they are out of order, causing the largest remaining element to 'bubble up' to its correct position at the end of the list.
+- **Time Complexity:** O(n^2)
+- **Space Complexity:** O(1)
+- **Solution:** [`bubble_sort.py`](Python/Arrays/bubble_sort.py)
+
 <!-- SOLUTIONS_END -->
 
 *Last updated: 2026-08-23 14:29:35*
