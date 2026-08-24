@@ -36,6 +36,16 @@
 - **Space Complexity:** O(1)
 - **Solution:** [`bubble_sort.py`](Python/Arrays/bubble_sort.py)
 
+
+## Hello World Greeting
+
+- **Language:** Python
+- **Problem:** Prints a custom greeting message to standard output.
+- **Approach:** The program defines the standard entry point function main. Inside main, it calls Rust's println! macro with a literal string to display the message to the console. This executes sequentially in a single step with minimal overhead.
+- **Time Complexity:** O(1)
+- **Space Complexity:** O(1)
+- **Solution:** [`hello_world_greeting.py`](Python/General/hello_world_greeting.py)
+
 <!-- SOLUTIONS_END -->
 
 *Last updated: 2026-08-23 14:29:35*
