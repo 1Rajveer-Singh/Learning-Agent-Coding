@@ -46,6 +46,16 @@
 - **Space Complexity:** O(1)
 - **Solution:** [`hello_world_greeting.py`](Python/General/hello_world_greeting.py)
 
+
+## Fibonacci Number
+
+- **Language:** JavaScript
+- **Problem:** Calculate the nth Fibonacci number given a non-negative integer n.
+- **Approach:** The algorithm computes the nth Fibonacci number iteratively from the base cases up to n. It maintains two variables to keep track of the last two Fibonacci numbers, updating them in each step. This bottom-up approach avoids unnecessary recalculations and optimizes memory usage.
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+- **Solution:** [`fibonacci_number.js`](JavaScript/fibonacci_number.js)
+
 <!-- SOLUTIONS_END -->
 
 *Last updated: 2026-08-23 14:29:35*
