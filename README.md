@@ -66,6 +66,16 @@
 - **Space Complexity:** O(1)
 - **Solution:** [`sort_array_constraints_check.py`](Python/sort_array_constraints_check.py)
 
+
+## Merge Sort
+
+- **Language:** Python
+- **Problem:** A program that reads a string representation of an integer array and sorts it using the merge sort algorithm.
+- **Approach:** The algorithm uses a divide-and-conquer strategy, recursively splitting the array into halves until single-element sub-arrays are reached. These sub-arrays are then merged back together in sorted order by comparing elements from each side and appending the smaller value to a result slice.
+- **Time Complexity:** O(N log N)
+- **Space Complexity:** O(N)
+- **Solution:** [`merge_sort.py`](Python/merge_sort.py)
+
 <!-- SOLUTIONS_END -->
 
 *Last updated: 2026-08-23 14:29:35*
